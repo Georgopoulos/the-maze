@@ -75,8 +75,4 @@ class Maze
     p route.reverse
     return route.reverse
   end
-
-  m = Maze.new()
-  m.solve_bfs
-
 end
