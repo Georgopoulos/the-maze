@@ -9,5 +9,5 @@ route in the form of two-dimensional points from start to finish.
 The algorithm used to solve the maze is the **Breadth First Search**
 
 Resources:
-[https://en.wikipedia.org/wiki/Breadth-first_search]
-[https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal.htm]
+(Wikipedia)[https://en.wikipedia.org/wiki/Breadth-first_search]
+(TutorialsPoint)[https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal.htm]
