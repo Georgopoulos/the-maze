@@ -9,7 +9,7 @@ class Maze
     @maze = []
 
     File.open(filename) do |file|
-      file.each_line { |line| @maze << line.strip.split('') }
+      file.each_line { |line| p line.strip; @maze << line.strip.split('') }
     end
 
     locate_start_finish
@@ -72,7 +72,6 @@ class Maze
       route << node if directions.include?(route.last)
     end
 
-    p route.reverse
     return route.reverse
   end
 end

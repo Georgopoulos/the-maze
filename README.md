@@ -8,6 +8,10 @@ route in the form of two-dimensional points from start to finish.
 
 The algorithm used to solve the maze is the **Breadth First Search**
 
-Resources:
+Online Resources:
 * https://en.wikipedia.org/wiki/Breadth-first_search
 * https://www.tutorialspoint.com/data_structures_algorithms/breadth_first_traversal.htm
+* https://github.com/rayning0/maze-solver-ruby-003
+
+Books:
+* Programming Ruby 1.9 & 2.0 by Dave Thomas - The Pragmatic Programmers' Guide

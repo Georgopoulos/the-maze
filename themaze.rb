@@ -1,4 +1,13 @@
 load 'lib/maze.rb'
 
-m = Maze.new()
-m.solve_bfs
+# Create a new object
+m = Maze.new
+
+# Solve maze
+route = m.solve_bfs
+
+# Print solution (route)
+puts ""
+puts "Route: "
+puts "-----------------------"
+p route
