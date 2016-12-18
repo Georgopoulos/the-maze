@@ -20,7 +20,7 @@ You will be asked to enter the filename of the maze you want to solve. You can t
 
 Of course you could also add your own maze file and give it's filename.
 
-By pressing Enter, a preview of the Maze as well as the Solution Path (Route) will be print.
+By pressing Enter, a preview of the Maze as well as the Solution Path (Route) will be printed.
 
 ## Resources
 
